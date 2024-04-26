@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "daisyui": "^4.10.2"
+  },
+  "dependencies": {
+    "fast-sort": "^3.4.0"
   }
 }
